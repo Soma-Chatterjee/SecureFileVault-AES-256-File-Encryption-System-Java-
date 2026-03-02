@@ -1,0 +1,51 @@
+# =========================
+# Java Compiled Files
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.swp
+*~
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDE - IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+
+# =========================
+# IDE - Eclipse
+# =========================
+.project
+.classpath
+.settings/
+
+# =========================
+# IDE - VS Code
+# =========================
+.vscode/
+
+# =========================
+# Encrypted Output Files (Optional)
+# Prevent committing test encrypted files
+# =========================
+*.enc
+decrypted_*
